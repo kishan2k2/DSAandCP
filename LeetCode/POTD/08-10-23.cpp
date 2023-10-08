@@ -1,39 +1,27 @@
 class Solution {
+private:
+    // DP is quite obvious. For every index I can either take the dot product or move one.
+    // For each iteration find the max and finally just return the max.
+    // Got it the problem was right away it was 2D DP and not 1D DP.
 public:
-    /* let ways[i][j][k] = # ways to construct an array of length i with max element equal to j and a search cost of k. */
-    long long ways[51][101][51];
-    const int MOD = 1e9 + 7;
-    
-    int numOfArrays(int n, int m, int k) {
-		/* There are our base cases. For each index 1 <= j <= m, we require ways[1][j][1] = 1 because the array consisting of only the element j
-			has length 1, maximum element j, and it has a search cost of 1. */
-        for (int j = 1; j <= m; j++) {
-                ways[1][j][1] = 1;
-        }
+    int maxDotProduct(vector<int>& nums1, vector<int>& nums2) {
+        int m = nums1.size();
+        int n = nums2.size();
         
-        for (int a = 1; a <= n; a++) {
-            for (int b = 1; b <= m; b++) {
-                for (int c = 1; c <= k; c++) {
-                    long long s = 0;
-
-		            /* In this first case, we can append any element from [1, b] to the end of the array. */
-                    s = (s + b * ways[a - 1][b][c]) % MOD;
-                    
-		           /* In this second case, we can append the element "b" to the end of the array. */
-                    for (int x = 1; x < b; x++) {
-						s = (s + ways[a - 1][x][c - 1]) % MOD;
-                    }
-					
-                    ways[a][b][c] = (ways[a][b][c] + s) % MOD;
-                }
+        vector<vector<int>> dp(m, vector<int>(n, INT_MIN));
+        int maxVal = INT_MIN;
+        
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                dp[i][j] = nums1[i] * nums2[j];
+                if(i > 0) dp[i][j] = max(dp[i][j], dp[i-1][j]);
+                if(j > 0) dp[i][j] = max(dp[i][j], dp[i][j-1]);
+                if(i > 0 && j > 0) dp[i][j] = max(dp[i][j], dp[i-1][j-1] + nums1[i] * nums2[j]);
+                
+                maxVal = max(maxVal, dp[i][j]);
             }
         }
-
-        long long ans = 0;
-        for (int j = 1; j <= m; j++) {
-            ans = (ans + ways[n][j][k]) % MOD;
-        }
         
-        return int(ans);
+        return maxVal;
     }
 };
