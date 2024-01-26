@@ -2,6 +2,8 @@
 
 Welcome to my Data Structures and Algorithms (DSA) repository! In this repository, I have gathered the code for various DSA problems that I have solved. The problems are sourced from LeetCode, Codeforces, Codechef, and other competitive coding platforms.
 
+Though I try to push all the codes, but I couldn't always because it becomes just too much to commit.
+
 ## Branches
 
 ### 1. **master**
