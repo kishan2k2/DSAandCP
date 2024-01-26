@@ -1,0 +1,31 @@
+# Objective
+
+1. It's the first contest in Div 3 all the best.
+2. Give it your all.
+3. Use GPT or whatever you need.
+4. Dont see the graph cause it will distract you.
+5. Doing it in brute force way if it is stuck, then ask chatGPT for optimization.
+
+# Experience
+
+1. The start was rough, the first question took time to solve.
+2. Questions 2 and 3 were easy to solve.
+3. Was stuck in question no 4.
+    1. Was quite distracted as well, focus was not at its peak.
+    2. But still, I solved it partially.
+    3. But I wasn't at all near the most optimal solution.
+    4. next question was the next part of this question so couldn't do it as well.
+4. The 5th question seems doable using DP or some pattern matching.
+    1. But there wasn't much time left.
+5. Final summary-: 
+    1.  I was already very much tired but I still gave the competition, It didn’t go much well.
+
+# Learning.
+
+1. Don’t rely too much on GPT, it can only act as an assistant not the brain of the code.
+    1. In this situation, GPT couldn’t do anything because I didn’t even know the approach, i.e. the pattern.
+2. Don’t have a lot of expectations, have minimal expectations, and work the most.
+    1. But the thing is that the most critical analysis comes when I am the most hurt, and I am mostly hurt when the expectation doesn’t match the reality.
+    2. Need to ponder upon that a bit more.
+3. ChatGPT cannot just optimise the algorithm especially if it is an ad-hoc question.
+4. Need to solve the question 5.
