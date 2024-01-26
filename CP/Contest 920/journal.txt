@@ -1,0 +1,35 @@
+# Objective
+
+1. I am getting bored with the development thing, and I need something more engaging for a bit.
+2. See the whereabouts of code force.
+    1. After all, it is more reputed, right?
+3. Using a standard template.
+4. Again use chatGPT, using the smart way.
+    1. i.e. Use it to code some portion that you know the logic of but dont want/Dont know how to code it.
+    2. After getting the code for god sake don’t just copy-paste it and expect to work it like magic, and don’t panic if it doesn’t. Treat it like an assistant and not like a teacher.
+5. To know if it also has DSA-based questions or just pure maths and patterns like the CodeChef ones.
+    1. Though I expect the former one.
+6. Iam a beginner and For me it is not about doing the question fast I just have to do it with full focus and take as much time as possible.
+7. After giving the contest-: 
+    1. Clear the task list and make the video for the hackathon.
+
+# Experience
+
+1. The contest has been ended.
+    1. See if I can do problem D.
+    2. No matter what see the solution of problem C.
+2. Later I understood that it is not the mistake of mine that questions are not getting solved even if logic seem to be correct.
+    1. It’s just that the input are getting registered.
+    2. The problem is in the code and not in the logic so not much of a concern, but still need to work on it.
+3. Will do some in-depth analysis and Lets see what else happen
+
+1. Analysis.
+    1. It's not like I couldn’t solve the questions.
+    2. I should definitely try to give codeforces contests as well.
+    3. Make your own template, and see the work arounds and all.
+    4. I could have problem C and D easily. Don't know about problem E.
+2. Will make some kind of a application using the API.
+
+# Learning
+
+1. Make your own template and see the work arounds like fix that error of vectors and all.
