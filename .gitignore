@@ -3,3 +3,6 @@
 
 # Ignore all .exe files within any directory
 **/*.exe
+
+#Ignore .vscode file
+.vscode
