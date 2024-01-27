@@ -1,0 +1,43 @@
+# Objective
+
+1. One question at a time.
+2. Don't be kanjoos while testing the algorithm test all the edge cases.
+3. While doing a question be accountable.
+    1. Which algo you are making? Testing? Rejected algo?
+    2. Time spent on what?
+4. Make sure to progress ahead and not get stuck in some silly thing.
+5. Upsolve the remaining question.
+6. I think I always get stuck in the DP question.
+    1. See the question rating and the question type.
+    2. If not ad-hoc I can practice it more often.
+
+# Experience
+
+1. Feeling a lot of sleepy. Nearly slept off while meditating.
+2. Not prepared well for the contest.
+    1. Small things that just disturb the experience.
+3. Problem C -: Is it string matching or DP idk?
+4. I thought that I was so close to solving the third question.
+    1. Like always nothing to be proud of.
+    2. Especially cause I used chatGPT.
+    3. Rank improved from 18K to 8K. But a lot of improvement is required.
+    4. Though I need to upsolve it and see its rating as well?
+    5. I think that it was a hard question, but dont just satisfy your ego based on that. I know my reality and how much I need to work on myself.
+
+# Learning
+
+1. There are a lot of things to be learned from this contest.
+2. Be well-rested before the contest.
+3. Dont fuck up, especially with the templates and all.
+4. Use GPT precisely.
+    1. But try to avoid it, I am somehow scared that I will be dependent on it and unable to solve it on my own.
+    2. Though that is way better than doing nothing.
+    3. **The best use of GPT that I found was that spend more time in explaining the question to GPT.**
+    4. **Cause that is the issue, if I understand the question completely I will be able to solve the question{Or identify the algorithm or the pattern}.**
+5. Things I should continue.
+    1. The concept of one question at a time was of great help.
+    2. Also accounting for the time spent on the question was very helpful.
+        1. Time spent on testing the algorithm.
+        2. Making the algorithm.
+        3. Improving the algorithm.
+        4. Rejecting the algorithm.
