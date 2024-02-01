@@ -1,0 +1,31 @@
+class Solution {
+public:
+    int maximumLength(string s) {
+        map<string, int> mapping;
+        for(auto i:s){
+            map<string, int> mapping1 = mapping;
+            for(auto j:mapping1){
+                mapping[j.first + i]++;
+            }
+            string s = "";
+            s += i;
+            mapping[s]++;
+        }
+        int maxi = 0;
+        int ans;
+        for(auto i:mapping){
+            cout<<"Here is the value of i.first and i.second "<<i.first<<" "<<i.second<<endl;
+            if(i.second>2){
+                string temp = i.first; 
+                
+                if(maxi<temp.length()){
+                    // cout<<"Here is type and value of temp "<<temp.length()<<" value of maxi "<<maxi<<endl;
+                    maxi = temp.length();
+                }
+            }
+        }
+        if(!maxi)
+            return -1;
+        return maxi;
+    }
+};
