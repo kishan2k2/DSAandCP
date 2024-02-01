@@ -14,6 +14,7 @@ Though I try to push all the codes, but I couldn't always because it becomes jus
 
 ### 3. **LeetCode**
    - This branch is dedicated to problems solved on LeetCode and general DSA questions.
+   - Even though as of today [01-02-24] I have solved over 320 question on leetcode but ofcourse I couldn't push them call.
 
 ### 4. **Codepython**
    - This branch is specific to problems solved using the Python programming language. I am actively working on mastering Python, and this branch reflects my progress in solving DSA problems with Python.
