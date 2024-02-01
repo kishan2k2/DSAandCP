@@ -1,0 +1,38 @@
+# Objective
+
+1. In the past few contests, I have been performing well but have been disappointed cause of not being able to solve the doable questions in the time given.
+    1. I have to conquer that now.
+    2. The strategy is not to do it fast.
+    3. The strategy is to calm your nerves and focus on what needs to be done.
+    4. Other strategies are don’t be kanjoos while testing the test cases and dry runs.
+    5. Be the biggest critique of your code.
+        1. Good thing to keep in mind.
+
+# Experience.
+
+1. Fuck the template thing, just build your own according to requirement at least there will be a flow.
+2. I was stuck in such a silly mistake, OMG. I don’t know how to hack even worked out.
+3. The timing in the preloaded question fucked me up, fr.
+
+# Learnings
+
+1. After sufficient rest, I must do the solving of question 5.
+2. Improvement toh hai i.e. within 1000 rank aa gaya.
+3. Lekin could have done it faster.
+    1. Fuckups ho gaye thode bahut, yeah template ki MKC.
+4. The thing is preload the question be be aware of the fact that time is statically loaded and doesn’t change dynamically until I reload the page.
+    1. Preload the question but do refresh the page.
+5. I need to control my emotions.
+    1. Don’t get carried away with others’ performance.
+    2. Even though peaked my rating chart, I was still dissatisfied cause someone else performed better.
+        1. Yeah, they performed better cause they must be prepared for it.
+        2. Don’t forget I made such a great project with langchain, gemini, and streamlit even deployed it to show the world.
+        3. Was drained out and tired but still gave the contest and killed it by peaking my ratings and all.
+6. Couldn’t satisfy the objective at all.
+7. I don’t know why even after thinking about it I just rushed into coding.
+    1. That got me in question 4.
+8. Good thing to keep in mind.
+    1. Be the biggest critique of your own code.
+9. The first thing is acceptance.
+    1. I have to stop acting like If I had time I could have done the last question.
+    2. Common it was 2k+ rated, I have a long way to go.
