@@ -1,0 +1,36 @@
+# Objective.
+
+1. Push codes and all.
+2. Again an abrupt start came from the driving lesson and directly jumped to code.
+
+# Experience
+
+1. The start was very bad.
+2. It took over 5 attempts just to solve the first goddamn question.
+3. I am proud of the second question, even though it was not a hard question.
+    1. The earlier me would have just given up on the question, but the new me fought well and conquered the question.
+4. About the third question yeah that was kind of disappointment.
+    1. I tried to complicate stuff even more than it was, by trying to inculcate Kadanes algorithm. To find the sum, silly me.
+    2. But I can proudly say that I finally solved the question beyond the time limit.
+
+# Learning
+
+1. I get nervous and fumble and make mistakes and gambles.
+    1. If I just be more focused and more efficient while dry running the solutions and all I could easily do it in time.
+2. It is possible to solve the third question of the leetcode contest and jump up the rating chart.
+    1. It's not gonna happen overnight I have to strategically plan and execute this thing.
+    2. I have to pick topics, like DP, Graph, Recursion, Sliding window prefix sum, and all. And do medium or difficult questions on them.
+    3. Time is one of the biggest things.
+        1. It doesn't mean that I don’t have to think or do a dry run.
+        2. If I just be more focused and more efficient while dry running the solutions and all I could easily do it in time.
+3. I need to work on another thing.
+    1. When I am focused and doing the right thing, I tend to do it slower which leads to more time taken.
+    2. As of now, I don't think that I need to focus on that aspect if I just work to calm my nerves avoid silly mistakes, and not waste time and be more focused. My path will be clearer than ever before.
+4. Don’t try to complicate things more than it is.
+    1. Like in the third question, there was no need to apply kadanes algorithm in it.
+5. Result wise this was not a great contest, but if you ask me personally it was a banger of a contest, so many things to learn in such a short amount of time.
+6. Last time I solved 2 and attempted the other two
+    1. I said that I could solve one of them, But I know the difference between saying and and doing right?
+    2. This time I did solve one of them, but beyond the time limit.
+    3. For future I have to try to do it in competition.
+    4. For further future i have to do it in again and agian.
