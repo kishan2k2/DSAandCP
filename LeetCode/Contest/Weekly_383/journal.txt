@@ -1,0 +1,36 @@
+# Objective
+
+1. To give my best shot.
+2. To calm my nerves.
+3. To do less of the errors.
+4. Not being kanjoos and not eager.
+    1. I have to understand that it is not CodeChef. It is leetcode 2 questions are what I usually do.
+    2. The regret of penalty>>not doing fast.
+        1. Got 7 penalties though.
+5. Upsolve question 4 before going ahead.
+
+# Experience
+
+1. The experience was the best not gonna lie.
+2. I was not kanjoos.
+3. I just can’t believe it, I was so close to the end time[2:39 left].
+    1. But I just maintained my nerves and just smashed it. 
+    2. So proud of myself.
+4. Even though I was able to solve 3 q’s in the last virtual_contest as well.
+    1. But there is difference in solving it in virtual and in contest.
+    2. And a personal and based opinion but this contest was tuff than the previous one, especially the third question.
+
+# Learnings
+
+1. Two things that worked this time.
+    1. Believing and focused work.
+        1. This doesn’t imply that if you believe even the wrong algorithm with work.
+        2. This means that if you believe you can make the correct algorithm required.
+2. Giving the contest in the right mood will serve me well.
+    1. Dont wait for the right mood, create the right mood.
+    2. Even if you are not in the right mood give the contest anyway.
+3. Dependency on GPT has been reduced.
+4. From now on new goals.
+    1. Try to solve 3 q’s in the contest.
+    2. Reduce the use of GPT.
+    3. Reduce penalty.
