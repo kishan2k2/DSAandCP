@@ -1,0 +1,53 @@
+# Objective.
+
+1. To solve the questions.
+2. To make a plan on how to do dsa now.
+    1. It's not just about the topics to complete but also about the problem-solving.
+    2. I have done DataStrcuture and DAA. And I don’t have much of the theory left, I have to do question practice more often.
+    3. Don’t Ignore CP, the industry level is increasing and I have adapted to it.
+        1. Some topics I want to be good at i.e. they always sting me.
+        2. Matrices, DP, bit manipulation, greedy.
+    4. Doing just a sheet is not a bad idea anyway.
+3. To test a hypothesis.
+    1. Whether doing Development improves my dsa problem-solving abilities. 
+        1. Yes, indeed it does.
+4. Just remember the previous learnings.
+    1. Doing one thing at a time, and not being kanjoos while testing the algorithm helped.
+5. Push the code to Git Hub.
+    1. Done.
+
+# Experience.
+
+1. The second one was so much more difficult, ahh shit. But I did it somehow.
+2. The third one was easy.
+3. Didn’t even try the fourth question, knowing that it is a bit manipulation question.
+4. Surprisingly no DP-based question this time. 
+5. No question from DP or any standard data structure, I guess I heard it right that leetcode is becoming more like any other competitive programming platform.
+6. I am just happy that I could do three questions.
+- This mf error
+    
+    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4049ceea-998e-413e-b6b8-7e1d97746630/9832977c-410d-478f-afe6-96ce1913cca0/Untitled.png)
+    
+
+# Learning.
+
+1. What does transform do?
+    1. It is more like a lambda or a loop that does the operation on the elements. 
+2. error due to long long didn’t expect that in the leetcode problems.
+3. error due to precedence error.
+4. The biggest difference between the previous me and the new me is how much I can sit now.
+5. Xor-based questions to do.
+6. Even though I did the third one in a virtual contest that too took way more time. I dont think I could have pulled that off in a real contest.
+7. No question from DP or any standard data structure, I guess I heard it right that leetcode is becoming more like any other competitive programming platform.
+8. Sometimes we have to spend more time improvising the algorithm for the edge case rather than making the base algorithm.
+    1. Respect the hustle.
+
+# Plan for dsa.
+
+1. For now, I believe that doing a sheet should be enough.
+2. But I have some topics to do/to be good at.
+    1. DP.
+    2. Graph.
+    3. Matrix related questions.
+    4. Bit manipulation-related questions.
+    5. Maybe I can study them separately meanwhile doing sheets.
