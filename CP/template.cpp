@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-#define int long long
+#define ll long long
 void solve(){
     
 }

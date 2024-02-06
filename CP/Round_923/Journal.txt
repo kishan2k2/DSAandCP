@@ -1,0 +1,24 @@
+# Objective
+
+1. To get shit together.
+2. To see if reading manga and all improved anything.
+3. No major expectations at all.
+
+# Experience
+
+1. There were many points where I felt to give up but I didn’t and I dont regret it at all.
+2. I gambled on problem D. I failed to win on time.
+    1. I won but at what cost?
+3. Decent enough performance in this contest.
+    1. At least none of the template fuckups that’s progress for sure.
+4. I tested problem E while solving which was a major relief.
+
+# Learning
+
+1. Reading manga and all helped in some way or the other.
+2. Sometimes you just dont need to give up and just move forward and focus on the moment.
+    1. And in other times you are in a flow state.
+3. Variables and functions are the lifeline of a program if you mess them up they will mess you up.
+    1. It is so important to manipulate them in the correct order.
+    2. Agar main kisi function ko bana raha hu to just focus on that function, agar main kisi condition ko likh raha hu to just focus on that condition.
+        1. Test everything, let it be in the brain, in a notebook, or by logs.
