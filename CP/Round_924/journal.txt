@@ -1,0 +1,41 @@
+# Objective
+
+1. Nor be afraid of writing big code neither be lazy enough to write big.
+    1. If time and space satisfies it will pass.
+        1. Yeah i followed it cause algorithm hi nahi bahi. 🤣
+2. If stuck use the rubber duck trick.
+3. Use GPT wisely.
+    1. It will only help in a bit of syntax only, and a bit of silly error handling[Not the logical ones though].
+    2. Didn’t used it at all, good decision.
+4. Don’t forget to upsolve the question.
+    1. Lets see if I can find the solution.
+5. Don’t try to quit or loosen up in the last quesitons.
+    1. Cause it is where the real growth is.
+    2. And these questions are only asked in interviews and all and that too and in the start.
+        1. Do it with full honesty.
+
+# Experience
+
+1. It is div 2 baby.
+    1. Did only two questions.
+    2. Can’t expect much from div 2. 
+    3. Keeping the expectations clear is also a blessing in disguise.
+2. There we so many fuckups in this contest I will list them in learnings.
+3. Major disappointment was because I could have done the third question but didn’t do it so.
+    1. I thought that I could do the third question, but so did the other people who tried.
+    2. I just couldn’t make the algorithm, and I hate it.
+4. I didn’t give up and iam proud of that.
+    1. Even though the results didn’t show them but it will soon in some or the other form.
+    2. Give up not only because the contest was hard to solve.
+    3. But also because there were so many fuckups.
+
+# Learning
+
+1. Confidence comes from not giving up.
+2. Fuck ups, i.e. be well prepared and avoid those next time.
+    1. Be sure of the timing and be calm. Especially in codeforces contest.
+    2. Ready the file path already. In codeforces.
+    3. Always ll datatype no matter what.
+        1. Not doing this just causes nuisance. 
+    4. Keep everything in silent mode, dnd mode. Laptop phone and all.
+        1. I live in pg so keep the headphone active if needed.
