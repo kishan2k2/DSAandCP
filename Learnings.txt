@@ -1,0 +1,36 @@
+# Learnings
+
+1. Don’t be kanjoos while solving dry runs of the test cases and all.
+2. Just one question at a time, give it your all.
+3. Believe in yourself even before trying, try it, and attempt it with full honesty.
+    1. Don't get overwhelmed.
+    2. Believing in yourself doesn’t mean premature celebration.
+4. I believe that checking out the most popular solutions, especially in leetcode is not the way to go, cause they tend to over-optimise the solution which makes it hard to interpret.
+    1. I know that it is the final destination of any programmer, but we can’t learn from it especially the topics over which we don't have good command over.
+5. In the leetCode contest, keep track of test cases.
+6. Dont just overcomplicate things.
+    1. Start with brute force if you don’t know the solution right away.
+    2. See the constraints, and decide where in the way you can optimize and find a way to optimize.
+7. Rating will increase but please don’t get attached to it.
+    1. Adapt and improvise while being disattached.
+    2. Neither see the submission rate and get disheartened or get excited.
+8. Be relaxed calm before the contest, atleast try to be.
+9. Use of GPT for minor error handling or some syntactical issues.
+10. Contest doesn’t has alot of the standard dsa based questions.
+    1. So in short contest is not an alternative to dsa.
+    2. Solving sheet helps.
+11. Fuck ups, i.e. be well prepared and avoid those next time.
+    1. Be sure of the timing and be calm. Especially in codeforces contest.
+    2. Ready the file path already. In codeforces.
+    3. Always ll datatype no matter what.
+        1. Not doing this just causes nuisance. 
+    4. Keep everything in silent mode, dnd mode. Laptop phone and all.
+        1. I live in pg so keep the headphone active if needed.
+12. Confidence comes from not giving up.
+13. Variables and functions are the lifeline of a program if you mess them up they will mess you up.
+    1. Using the rubber duck trick, i.e. talk out loud.
+14. Have realistic expectation.
+    1. If it is codeforces div 2, then it is different then div 3 right?
+15. See if the objectives are satisfied after everycontest.
+16. Sometimes it's just about breaking down the problem and solving it part by part.
+    1. CP all about that, it is the spirit.
