@@ -1,0 +1,43 @@
+# Objective
+
+1. To upsolve.
+2. To make dry run
+
+# Experience
+
+1. Experience was quite good.
+    1. I did dry run.
+    2. I got AC in first attempt.
+2. In the last question I was no where near the correct algorithm.
+
+# Learnings
+
+1. I have to leave my stalking habits.
+    1. Focus more on myself.
+    2. Stalking in terms of rating and not in terms of code. After all I have see others code and learn from them.
+2. Process to solve questions.
+    1. Make claims, i.e. observations.
+    2. Spend some more time claiming your claims.
+    3. If the claim turn out to be true for all the edge cases.
+    4. Make an algorithm.
+    5. Make the pseudo code out of it.
+    6. Dry run the algorithm and the pseudo code.
+    7. Write code.
+    8. Test the mini portions of the code while writing it.
+        1. This is help in those situations where your algorithm is correct but code doesn’t give expected output.
+    9. Debug if you get stuck.
+3. At one point I might have to level up theoretically.
+    1. Not as of now.
+    2. As for now, if I do one or two more questions.
+    3. or I do it fast I will make decent enough progress for the next few contest.
+4. Templates have many functions I could use like.
+5. When get stuck talk to yourself.
+6. Use the rubber duck analogy.
+7. One of the good tip is that when get stuck don't just quit or blank yourself.
+    1. Just try.
+    2. Talk to yourself.
+    3. One thing only to me is that I cannot work while being overwhelmed by thoughts or clutterness.
+        1. So clear your thoughts.
+        2. Clear your prenotions.
+        3. Clear your code. {This is such a underrated tip}
+        4. Repeat the entire process.
