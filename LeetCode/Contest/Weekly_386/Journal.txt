@@ -1,0 +1,33 @@
+# Objective
+
+1. To be dis-attached
+    1. Couldn’t do it, rank pissed my off again.
+    2. Stalked other again.
+2. To follow the basic principles of solving questions.
+    1. I did, but was slow.
+    2. Should have done it sincerely from the start.
+3. To upsolve
+    1. Too difficult
+4. To upsolve codeforces
+    1. Didn’t feel like it.
+5. Keep track of test cases
+
+# Experience
+
+1. Iam getting a bit sick of contest and all.
+    1. It is causing some issues.
+        1. Cause Iam not progressing as before.
+2. I could have done it easily if I approached the question like I did it from start.
+    1. But would it be worth it.
+    2. I mean if I could find no other optimised solution then there was no chance of not doing it.
+3. One thing will change which might help.
+    1. Once I shift to flat, I wont have to think of food and all during contest and all.
+
+# Learning
+
+1. I should have believed myself, rather than going here and there. Should have done with full full focus and honesty.
+    1. I don’t get those who say you should see other questions as well. I mean questions are sorted in order of difficulty, then why to preoccupy your brain with a even more difficult question.
+    2. In leetcode contest specifically.
+        1. If I feel like one question is bruteforce, and it might take long to code.
+            1. You most prolly are in the right path.
+            2. Just breakdown the problem and solve the god damn question.
