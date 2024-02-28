@@ -1,0 +1,67 @@
+# Objective
+
+1. To set up sublime after the contest.
+    1. I will after upsolving.
+2. To not stalk other profile after the contest.
+    1. I did it somehow, but improved a lot.
+3. To solve the question and not only the approach of the question.
+    1. Next thing to do.
+4. To solve only one question at a time.
+    1. If it is hard it is hard for all don’t worry about others.
+    2. I did.
+5. Read the question and understand it before approaching.
+    1. Never do the mistake of proceeding while half ass understanding.
+    2. I should have done it, i.e. following the procedure of making algo then pseudo code and then the real code.
+6. Agar kuch na aaye toh use GPT, use web.
+    1. Learn and grow within contest it doesn’t matter.
+    2. It’s hard to do it for these kind of CP contest.
+    3. Some thing else matter more than just brute/New concepts.
+        1. i.e. How you use the existing knowledge, it comes with experience, and seeing more questions.
+7. Process to solve
+    1. Make claims, i.e. observations.
+    2. Spend some more time claiming your claims.
+    3. If the claim turn out to be true for all the edge cases.
+    4. Make an algorithm.
+    5. Make the pseudo code out of it.
+    6. Dry run the algorithm and the pseudo code.
+    7. Write code.
+    8. Test the mini portions of the code while writing it.
+        1. This is help in those situations where your algorithm is correct but code doesn’t give expected output.
+        2. This is an important depth cause when it will get while up I get overwhelmed and when I get overwhelmed I don't perform good enough.
+    9. Debug if you get stuck.
+8. Talk to yourself.
+    1. Find a way, do give up.
+9. Keeping a list of observations.
+    1. Connect all.
+    2. Do rely on brain too much.
+        1. Keep it free and relaxed.
+
+# Experience
+
+1. One of the contest with a peaceful start.
+    1. Prestart.
+2. The start was sooo sooo good.
+    1. The best start fr.
+3. One question got swapped.
+    1. Though that should have been anticipated.
+4. I got stuck in one of the question.
+    1. But thankfully I got out.
+        1. And that too without following the regular approach. Not to appreciate this behaviour though.
+    2. Though not much penalty But I was stuck for soo loong time. In both of those questions.
+        1. And they we way to easy to be stuck in them.
+            1. Would be interested in their rating and all.
+    3. I didn’t give up until the last moment that is why I was able to do that middle question even after moving on to new question.
+        1. If the new question had some more hope then I guess that I would have not done it.
+
+# Learning
+
+1. I seriously need to be disattached.
+    1. But how should I, I mean If I put my hard work, shouldn’t I be expecting some kind of result.
+        1. I should expect to learn a have a good journey.
+2. I seriously need to follow those things which were meant to be done.
+3. One single thing that always hinders me is that.
+    1. Working with focus and stress free.
+    2. Whenever I don’t work with full focus and stress free, there is always some kind of a regret that I could have done more.
+4. I should hide the portion showing live rating.
+5. By next week I will be prepared.
+    1. With some Good level dsa and questions in my hood. Though there is shifting and all, but I am confident I will do it somehow.
