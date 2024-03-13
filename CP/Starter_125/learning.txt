@@ -1,0 +1,42 @@
+# Objective.
+
+1. To try my best and not to give up.
+2. Don’t do jaldbaazi, see question, all the test cases, imagine edge cases, make algo, test on all of them, make psuedo code, test on them, then submit.
+    1. It will take time but its not the concern.
+3. Maintain the momentum or the flow.
+    1. It is not broken with errors, it is broken with unexpectedness.
+    2. Test the code while writting it all the time.
+4. Use GPT or gemini effectively.
+5. When get wrong, dont worry take a step back and think about it.
+6. Process to solve questions.
+    1. Make claims, i.e. observations.
+    2. Spend some more time claiming your claims.
+    3. If the claim turn out to be true for all the edge cases.
+    4. Make an algorithm.
+    5. Make the pseudo code out of it.
+    6. Dry run the algorithm and the pseudo code.
+    7. Write code.
+    8. Test the mini portions of the code while writing it.
+        1. This is help in those situations where your algorithm is correct but code doesn’t give expected output.
+        2. This is an important depth cause when it will get while up I get overwhelmed and when I get overwhelmed I don't perform good enough.
+    9. Debug if you get stuck.
+
+# Experience.
+
+1. Second question mein kya toh BT hui, I wish ki early debug ho jaata toh aur bhi achi rank aa jaati.
+2. Iam proud of the way I solved the 4th question.
+    1. So fast and easily.
+    2. That is because the algorithm was right and I was testing the code while I was writting it.
+        1. It is so much important, check every part of the algorithm.
+            1. Most importantly if you dont make the pseudo code.
+            2. But this will only work if the pseudo code is correct.
+
+# Learning.
+
+1. Mein toh bas khus hu ki meri rating badh gayi.
+    1. Infact mujhe iss baat pe khus hona chahiye ki meine last question tak give up nahi kiya.
+    2. Infact last question mein meine kardiya tha after the first soution didn’t work out.
+        1. No regrets, But I shouldn’t do that.
+2. For the next time, just do the dsa sheet wale questions it will be helpful somehow.
+    1. Though I could also do the sheet question of TLE. But doing standard DSA is more important as of now.
+    2. I can view the question of TLE sheet.
