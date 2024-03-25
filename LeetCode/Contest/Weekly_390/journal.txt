@@ -1,0 +1,27 @@
+# Objective
+
+1. To push the code of codechef and this contest.
+2. Use the double penetration technique.
+3. Read carefully.
+4. Debug while coding.
+5. Take a step back when overwhelmed.
+6. Keep track of testcases.
+7. Try to write clean code.
+8. Contest as a contest, and a question as a question.
+9. Keep a observation list.
+10. Just don’t quit till the time rings.
+    1. Rather learn from the web rather than quit.
+
+# Experience
+
+1. Try not to be oversmart.
+2. Such a major fuck up in the first question itself.
+3. If given the contest could have got a good rank.
+4. I should try to upsolve the fourth question maybe it can help me do some more of it.
+    1. For that I might have to learn Tries.
+
+# Learning
+
+1. I should not get cocky or overconfident.
+    1. Humility is the key to sucess.
+    2. Write the algorithm, dry run the test cases, debug using print statements.
