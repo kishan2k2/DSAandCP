@@ -1,0 +1,21 @@
+# Objectives
+
+1. Don’t be kanjoos while solving dry runs of the test cases and all.
+2. Read the question completely cause I won’t read it again.
+3. Before coding read A→Z from start to test case explaination.
+4. Take a step back when you get overwhelmed.
+5. Use of GPT for minor error handling or some syntactical issues.
+6. Use double algorithm technique.
+7. And when writing code always test it using print statements.
+8. If preload the question then refresh the page while solving it.
+
+# Experience
+
+1. I really didn’t journal at that moment its been like 5 days since the competition.
+2. It was mohil’s birthday.
+3. After that every one went back to their home and somehow my downfall started.
+    1. Just kidding, it always happens nothing special, I can and I will cope up with it.
+4. It was a special contest it got the taste of being a 3* in a contest.
+5. I should really try to upsolve.
+
+# Learnings
