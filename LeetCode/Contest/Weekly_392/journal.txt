@@ -1,0 +1,51 @@
+## Objective.
+
+1. Push the codes.
+2. I want to see the effect of giving so much efforts and brainstorming of yesterday.
+3. All the objectives of the yesterdays contest.
+4. To give my best and not to give till the last moment.
+5. Whenever you feel like giving up, give it a break.
+    1. Take a deep breath.
+    2. Start reading the question again, think of all the approaches. No matter you can code it yourself or not just think.
+    3. Collect all the observations and connect them to make something magical.
+6. Don’t be kanjoos while doing dry run and all.
+7. Use the double penetration method.
+8. Print to debug that is the best way to go.
+9. Don’t get overwhelmed.
+    1. Remember the only thing that will stop you from solving the question is you.
+10. Be prepared for the fuckups.
+    1. New ide, new platform something will break for sure, but it will break for all and that will give me a good opportunity.
+11. Treat a question like a question, the only purpose is to solve that and not to think about previous or the next.
+12. It’s only you other don’t matter don’t do it for rank.
+13. Way to solve the question.
+    1. Start reading the question.
+    2. While reading you will have bias and will automatically solving the question right away.
+        1. In easier question the answer might even be true. 
+        2. But it is not worth it.
+    3. If you are having a strong urge then try to write it down.
+    4. Try to understand the complete aspect of the question.
+        1. Even though it will take time but it will be worth it.
+        2. There are questions where they want to test that thing only.
+    5. Case 1-: In some questions you will get the algorithm right away.
+    6. Case 2-: In some other questions you will have to dry run to find the pattern.
+    7. Case 3-: In some other questions you would have the idea of how to solve it, using some technique or a data structure or some other optimisation.
+    8. What ever is the case it is important to stop typing on the computer and take a paper and pen and breakdown the approach.
+    9. If it is something new i.e. the case 3 then learn about the data structure or the technique.
+    10. If it is the Case 2 then do the dry run and keep a list of observations and then combine it and make the magic happen.
+    11. If it is case 1, or other cases converge to this one then validate the algorithm with time and space complexity analysis. See where and how  you can optimise if needed.
+    12. Write the algorithm on pen and paper, using the double penetration method.
+    13. And while coding code it part wise and always test the code while writing itself.
+    14. If everything is done in the right sequence and way then boom you did it my guy, HAPPY AC ;)
+
+## Experience.
+
+1. So  much difficult.
+2. Such a bad contest.
+3. Atleast I didn’t give till the very last even though I felt it.
+    1. And Iam proud of it.
+    2. I have improved on it.
+
+## Learning
+
+1. I will give it a break.
+2. I will give the next contest only when I complete some topics.

@@ -1,0 +1,41 @@
+    ## Objective
+
+1. Last few contest i.e. hack with infy and leetcode contest were so bad that It demotivated me alot.
+2. I came back, even after such bad performance.
+3. I just need to do my best.
+4. I know that if I don’t quit or crib I wont regret it at any cost.
+5. Respect the question, the contest and you will get it as well.
+6. To post in github as well.
+7. Correct approach.
+    1. Start reading the question.
+    2. While reading you will have bias and will automatically solving the question right away.
+        1. In easier question the answer might even be true. 
+        2. But it is not worth it.
+    3. If you are having a strong urge then try to write it down.
+        1.  On pen and a paper or with comments.
+    4. Try to understand the complete aspect of the question.
+        1. Even though it will take time but it will be worth it.
+        2. There are questions where they want to test that thing only.
+    5. Case 1-: In some questions you will get the algorithm right away.
+    6. Case 2-: In some other questions you will have to dry run to find the pattern.
+    7. Case 3-: In some other questions you would have the idea of how to solve it, using some technique or a data structure or some other optimisation.
+    8. What ever is the case it is important to stop typing on the computer and take a paper and pen and breakdown the approach.
+    9. If it is something new i.e. the case 3 then learn about the data structure or the technique.
+    10. If it is the Case 2 then do the dry run and keep a list of observations and then combine it and make the magic happen.
+    11. If it is case 1, or other cases converge to this one then validate the algorithm with time and space complexity analysis. See where and how  you can optimise if needed.
+    12. Write the algorithm on pen and paper, using the double penetration method.
+    13. And while coding code it part wise and always test the code while writing itself.
+    14. If everything is done in the right sequence and way then boom you did it my guy, HAPPY AC ;)
+8. Don’t be kanjoos and not at all impatient.
+    1. Be calm and handle it well.
+9. I will see the time vs graph of the first and the second question.
+    1. I think that I was quite fast in the first quesiton, but I could have been a bit faster in the second question.
+
+## Experience.
+
+1. I was so happy on how quick and efficient was the first question.
+2. Even though I was stuck at question 3, I tried my best and did what I could, no regrets.
+
+## Learning
+
+1. If I just try my best without any fear and expectation, I wont be having any regrets.
