@@ -46,3 +46,7 @@ int main(){
     int root = 0;
     return dfsGraph(adj, root, visited);
 }
+
+// The only secret sause to dfs is that I need to know of when to apply the operations.
+// And I should not take too many things to define the state of the recursion, as it could be complex. 
+// Keep the constants aside or those who need to be called with reference.

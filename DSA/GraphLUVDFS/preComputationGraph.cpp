@@ -1,12 +1,15 @@
 #include<bits/stdc++.h>
 using namespace std;
 void subtreeSumDFS(vector<vector<int>>& adj, vector<int>& v, int node, int parent){
+    // Setting the value of the child node.
     v[node] = node+1;
     // I could add any or the weight of the nodes as well.
     for(auto child:adj[node]){
         if(child==parent)
             continue;
         subtreeSumDFS(adj, v, child, node);
+        // Doing this operation after returning from child.
+        // Because the value of the child node will be set only after visiting it.
         v[node] += v[child];
     }
 }
@@ -17,6 +20,7 @@ void subtreeSumEvenCount(vector<vector<int>>& adj, vector<int>& e, int node, int
         if(child==parent)
             continue;
         subtreeSumEvenCount(adj, e, child, node);
+        // Doing this operation after returning from child
         e[node]+=e[child];
     }
 }
